@@ -2,8 +2,6 @@
 content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, seminar participation, writing, grading, and use of sources.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -41,8 +39,7 @@ In addition to the books on course reserve, Hayden has many excellent books rela
 
 It is the policy of the Literature Faculty that students who plagiarise will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work.
 
-MIT's academic honesty policy can be found at the following link: [http://policies-procedures.mit.edu/information-policies/](http://policies-procedures.mit.edu/information-policies/
-)
+MIT's academic honesty policy can be found at the following link: {{% resource_link "d0549c69-9134-4e76-a96c-633577dbf4a2" "http://policies-procedures.mit.edu/information-policies/" %}}
 
 Grade
 -----

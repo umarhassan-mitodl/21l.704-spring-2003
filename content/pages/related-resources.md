@@ -14,32 +14,32 @@ Texts
 Tottel's Miscellany  
 An early English anthology of poems by Wyatt, Surrey, and others.
 
-[Castiglione, "The Book of the Courtier"](https://scholarsbank.uoregon.edu/xmlui/handle/1794/671)  
-Read in Book 1 from paragraph with sidenote "Situation of Urbin\[o\]" down to "Here without any longer tariyng the L. Gaspar Pallavicin saide". Transcribed by Richard Bear at the University of Oregon, copyright © 1997 The University of Oregon. Version appears on [https://scholarsbank.uoregon.edu/xmlui/handle/1794/672](https://scholarsbank.uoregon.edu/xmlui/handle/1794/672). For more information, go to [https://scholarsbank.uoregon.edu/xmlui/handle/1794/506](https://scholarsbank.uoregon.edu/xmlui/handle/1794/506).
+{{% resource_link "30cb29da-e880-41e7-bcb3-082c2e7f0b93" "Castiglione, \"The Book of the Courtier\"" %}}  
+Read in Book 1 from paragraph with sidenote "Situation of Urbin\[o\]" down to "Here without any longer tariyng the L. Gaspar Pallavicin saide". Transcribed by Richard Bear at the University of Oregon, copyright © 1997 The University of Oregon. Version appears on {{% resource_link "7a084de5-6bdb-488d-9f43-809fc38edc02" "https://scholarsbank.uoregon.edu/xmlui/handle/1794/672" %}}. For more information, go to {{% resource_link "47993aaf-a627-4e2c-a7d2-fd90420eef89" "https://scholarsbank.uoregon.edu/xmlui/handle/1794/506" %}}.
 
-[Mary Sidney Herbert, Psalm 52](http://www.luminarium.org/renlit/psalm52.htm)  
+{{% resource_link "4ca10eee-898b-41ae-b6ff-e659694407ac" "Mary Sidney Herbert, Psalm 52" %}}  
 Written probably before 1599; published in 1823.  
   
-[Mary Sidney Herbert, Psalm 139](http://www.luminarium.org/renlit/psalm139.htm)  
+{{% resource_link "5f8b08ca-4175-48e8-96f1-1f3194265344" "Mary Sidney Herbert, Psalm 139" %}}  
 Written probably before 1599; published in 1823.
 
-[Mary Sidney Herbert, "To Queen Elizabeth"](http://www.shakespeareanauthorshiptrust.org.uk/pages/candidates/sidney.htm)  
+{{% resource_link "c73adb6e-428a-46f2-a4ee-675a1fd63409" "Mary Sidney Herbert, \"To Queen Elizabeth\"" %}}  
 This poem accompanied a dedication copy of the Psalms, translated by Sidney Herbert and her brother Philip.  
   
-[Ralegh's "A Vision upon this Conceit of the Faery Queen"](http://www.luminarium.org/renlit/methough.htm)   
+{{% resource_link "d697ed06-34dc-40d1-b46f-80ff4f5fedbc" "Ralegh's \"A Vision upon this Conceit of the Faery Queen\"" %}}   
 This complimentary poem was published, as was common practice, along with Spenser's "Faerie Queene."
 
 Background
 ----------
 
-[The Bible](http://bible.gospelcom.net/)  
+{{% resource_link "640de8f0-46ca-4876-b836-16dc32992b72" "The Bible" %}}  
 Searchable text in various translations.
 
-[Background on the Geneva Bible](https://library.hds.harvard.edu/exhibits/incomparable-treasure/geneva-bible)  
+{{% resource_link "89fff38a-4c4d-4da4-bdba-f596488ee5aa" "Background on the Geneva Bible" %}}  
 Based on information from J.J. Pelikan, _The Reformation of the Bible_ (1996), and from _The Cambridge History of the Bible_ (1963-1970).  
         
-[Text of Psalms, from the Geneva Bible](http://www.reformed.org/documents/geneva/psalms.html)  
+{{% resource_link "bd050a79-18db-4b44-8549-2da30721cd4a" "Text of Psalms, from the Geneva Bible" %}}  
 This translation would have been the source text for Mary and Philip Sidney.  
         
-[Works of Elizabeth I](http://www.luminarium.org/renlit/elizabib.htm)  
+{{% resource_link "ec1891da-5996-4943-bcc4-5d3dc52d33f3" "Works of Elizabeth I" %}}  
 Include poems, speeches, verse translations, and letters.
